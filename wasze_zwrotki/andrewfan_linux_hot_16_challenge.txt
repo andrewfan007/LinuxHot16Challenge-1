@@ -1,0 +1,52 @@
+# Autor: andrewfan
+#LinuxHOT16Challange
+
+
+
+# 1. cd (change directory)
+# Do poruszania się w katalogach
+
+#2. ls (list)
+# Pokazuje zawartość bieżącego katalogu
+
+#3. touch
+# Tworzenie pliku, lub modyfikacja jeżeli plik istnieje
+
+#4. clear
+# Czyszczenie terminala
+
+#5. cp (copy)
+# Kopiowanie pliku
+
+#6. find
+# Wyszukiwanie plików w katalogu, lub folderów
+
+#7. rm (remove)
+# Skasowanie pliku
+
+#8. clear
+# Wyczyszczenie terminala
+
+#9. ping
+# Sprawdzenie czy istnieje połączenie sieciowe
+
+#10. mkdir (make directory)
+# Stworzenie nowego katalogu 
+
+#11. cat (concatenation)
+# Łączenie plików jednego formatu
+
+#12. mv (move)
+# Przeniesienie pliku do innego katalogu
+
+#13 chmod (change mode)
+# Zmienia prawa dostępu do pliku
+
+#14 pwd ( print working directory)
+# wypisuje ścieżkę obecnego katalogu
+
+#15 locate
+# pokazuje gdzie ostatnio był widziany plik o określonej nazwie
+
+#16 man
+# pomoc dla danej komendy 
